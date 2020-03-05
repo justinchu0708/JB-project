@@ -13,7 +13,6 @@ Nav:
 - Local Nav (Scorllspy)
     -placed on the right 
 
-Header: Text : Strong
 Main: 
 
 - content
